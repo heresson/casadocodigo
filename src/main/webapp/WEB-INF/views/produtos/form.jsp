@@ -9,6 +9,7 @@
 	Casa do código</title>
 </head>
 <body>
+	<h1>Cadastro de Livro</h1>
 	<form action="/casadocodigo/produtos" method="POST">
 		<div>
 			<label>Título</label> <input type="text" name="titulo" />
