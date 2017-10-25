@@ -50,12 +50,10 @@ public class ProdutoController {
 			System.out.println("Dados inválidos");
 			return form(produto); // return new ModelAndView("produtos/form");
 		}
-		System.out.println(sumario.getOriginalFilename());
-		dao.gravar(produto);
 		
 		String sumarioPath = saver.write("arquivos-sumario", sumario);
         produto.setSumarioPath(sumarioPath);
-		
+        dao.gravar(produto);
         redirectAttributes.addFlashAttribute("sucesso", "Produto cadastrado com sucesso!");
 		return new ModelAndView("redirect:produtos");
 	}
