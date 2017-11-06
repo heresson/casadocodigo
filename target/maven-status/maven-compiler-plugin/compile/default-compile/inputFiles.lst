@@ -1,9 +1,11 @@
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/daos/ProdutoDao.java
+/home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/validation/ProdutoValidation.java
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/Produto.java
+/home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/ProdutoController.java
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/Preco.java
+/home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/infra/FileSaver.java
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/TipoPreco.java
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/JPAConfiguration.java
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/AppWebConfiguration.java
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/ServletSpringMVC.java
-/home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/ProdutosController.java
 /home/h/workspace-jboss-studio/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/HomeController.java
